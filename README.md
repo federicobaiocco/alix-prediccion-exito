@@ -1,5 +1,7 @@
 # alix-prediccion-exito
 
+## 2do Puesto en la competencia
+
 https://metadata.fundacionsadosky.org.ar/competition/20/
 
 En la competencia se encontró un problema conocido como "target lekeage".
